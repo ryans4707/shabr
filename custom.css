@@ -26,6 +26,11 @@
     text-align: center;
 }
 
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      margin: auto;
+  }
+
 #time, #weather, #flight, #participation {
     padding-left: 50px;
     padding-right: 20px;
