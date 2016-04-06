@@ -1,0 +1,33 @@
+.navbar-brand {
+    font-family: Lobster;
+    padding-left: 45px;
+    font-size: 35px
+}
+
+.nav {
+    font-family: Bitter;
+}
+
+.navlinks {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#home p {
+    text-align: center;
+    font-family: Handlee;
+    font-size: 20px;
+}
+
+
+#time, #weather, #flight, #participation {
+    padding-left: 50px;
+    text-align: center;
+}
+
+#participation {
+    padding-right: 20px;
+}
