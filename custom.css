@@ -1,18 +1,29 @@
 .navbar-brand {
     font-family: Lobster;
-    padding: 15px;
     font-size: 40px;
+    padding-bottom: 50px;
 }
 
 .nav {
     font-family: Bitter;
 }
 
+h2 {
+    text-align: center;
+}
+
+#line2 {
+    font-family: 'Courgette', cursive;
+}
+
+#line3 {
+    font-family: 'Dancing Script';
+}
+
 .navlinks {
     font-size: 20px;
     text-align: center;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 20px;
 
 }
 
