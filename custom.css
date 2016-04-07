@@ -42,6 +42,9 @@
         
     }
 }
-.carousel-caption{
-    text-size:100px
+.lead{
+    text-size: 23px;
+    font-family: "times new roman";
+    background-color: white;
+    color:black;
 }
