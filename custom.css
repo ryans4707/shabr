@@ -89,9 +89,10 @@ h1 {
         font-size: 30px;
     }
 }
-.lead{
+.gallery p{
     text-size: 23px;
     font-family: "times new roman";
     background-color: white;
     color:black;
+    width:430px;
 }
