@@ -12,9 +12,30 @@ h1 {
     text-align: center;
 }
 
+#descript{
+    padding-top: 50px;
+    background-image: url(hot-air-balloon-header.jpg);
+    height: 300px;
+    background-position: center;
+}
+
+
 #line1{
     font-family: 'Chewy';
+    color: black;
 } 
+
+#line2 {
+    color: lightblue;
+    text-shadow: 2px 2px 3px black; 
+    
+}
+
+#line3{
+    color: yellow;
+    text-shadow: 2px 2px 3px black; 
+}
+
 #line2, #line3 {
     font-family: 'Dancing Script';
 }
@@ -48,8 +69,20 @@ h1 {
 }
 
 @media only screen and (max-width: 768px) {
-    .navlinks {
-        
+    #line1, #line2, #line3 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #line1, #line2, #line3 {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #line1, #line2, #line3 {
+        font-size: 30px;
     }
 }
 .lead{
