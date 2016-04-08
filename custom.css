@@ -72,23 +72,26 @@ h1 {
     text-align: center;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 2000px) {
     #line1, #line2, #line3 {
-        font-size: 30px;
+        font-size: 50px;
     }
 }
 
 @media only screen and (max-width: 992px) {
     #line1, #line2, #line3 {
-        font-size: 30px;
+        font-size: 45px;
     }
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 768px) {
     #line1, #line2, #line3 {
-        font-size: 30px;
+        font-size: 35px;
     }
 }
+
+
+
 .lead{
     text-size: 23px;
     font-family: "times new roman";
