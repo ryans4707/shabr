@@ -99,7 +99,15 @@ h1 {
     color:black;
 }
 
-.contact p {
+.contact {
+    background:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('skyhab.jpg'); 
+    background-position: center;
+    padding:10px;
+    height: 160px;
+}
 
+.contact p {
+    font-size: 14px;
     text-align: center;
+    color: white;
 }
