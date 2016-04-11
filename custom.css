@@ -104,7 +104,19 @@ h1 {
     width:430px;
 }
 
-.contact p {
-
-    text-align: center;
+.contact {
+    background:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('skyhab.jpg'); 
+    background-position: center;
+    padding:10px;
+    height: 160px;
 }
+
+.contact p {
+    font-size: 14px;
+    text-align: center;
+<<<<<<< HEAD
+}
+=======
+    color: white;
+}
+>>>>>>> 3a45ec12b8c82cf4b48668955d253b8a6555ae20
