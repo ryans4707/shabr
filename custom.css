@@ -99,7 +99,7 @@ h1 {
     width:430px;
 }
 .alert alert-info{
-    width:100px;
+    background-color: yellow;
 }
 
 .contact {
