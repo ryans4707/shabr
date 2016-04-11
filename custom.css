@@ -98,6 +98,9 @@ h1 {
     color:black;
     width:430px;
 }
+.alert alert-info{
+    width:100px;
+}
 
 .contact {
     background:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)), url('skyhab.jpg'); 
